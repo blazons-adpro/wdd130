@@ -58,7 +58,7 @@ nav a:hover {
 }
 
 footer {
-    background-color:#051224;
+    background-color:#a9c7d4;
     color: #d7fef2;
 }
 
@@ -80,7 +80,8 @@ h4 {
 
 footer a {
     color: #051224;
-    text-decoration: none;
+    text-decoration: underline;
+
 }
 
 footer a:hover {
