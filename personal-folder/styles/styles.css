@@ -42,7 +42,7 @@ nav {
     justify-content: space-around;
 }
 body {
-    background-color: #d9d3ec;
+    background-color: #F2E9E4;
     font-family: var(--body-font);
     font-size: 22px;
     margin: 0;
@@ -64,7 +64,7 @@ main section {
 .mssg {
     grid-column: 1/6;
     grid-row: 1/6;
-    background-color: #b0b1ae;
+    background-color: #4A4E69;
     padding: 35px;
     height: 500px;
     box-shadow: 5px 5px 10px #6f7364;
@@ -103,7 +103,7 @@ main section {
 .msg {
     grid-column: 1/6;
     grid-row: 6/12;
-    background-color: #a9aaa7;
+    background-color: #9A8C98;
     padding: 35px;
     box-shadow: 5px 5px 10px #6f7364;
 }
@@ -125,7 +125,7 @@ footer p {
 }
  
 footer {
-    background-color:#020911 ;
+    background-color:#22223B ;
     color: ;
     margin-top: 200px;
     padding: 35px 50px;
